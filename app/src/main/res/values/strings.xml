@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Logic Gate</string>
+    <string name="Exit">Exit Application</string>
+    <string name="LevelSelect">Level Select</string>
+    <string name="Help">Help</string>
+    <string name="lvl1">Level 1</string>
+    <string name="lvl2">Level 2</string>
+    <string name="lvl3">Level 3</string>
+    <string name="lvl4">Level 4</string>
+    <string name="lvl5">Level 5</string>
+    <string name="lvl6">Level 6</string>
+    <string name="lvl7">Level 7</string>
+    <string name="lvl8">Level 8</string>
+    <string name="lvl9">Level 9</string>
+    <string name="lvl10">Level 10</string>
+    <string name="lvl11">Level 11</string>
+    <string name="lvl12">Level 12</string>
+    <string name="back">Back</string>
+</resources>
